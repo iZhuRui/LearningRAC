@@ -1,0 +1,6 @@
+framework module Pods_LearningRAC {
+  umbrella header "Pods-LearningRAC-umbrella.h"
+
+  export *
+  module * { export * }
+}
